@@ -2,7 +2,7 @@
 
 <h1 id="cover-heading">
   Docsify-This Multiple Page Site
-</h2>
+</h1>
 
 > Create, Share and Collaborate
 
